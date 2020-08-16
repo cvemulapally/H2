@@ -1,3 +1,4 @@
+/* naming this file as schema.sql is not inserting data into H2 database*/
 DROP TABLE IF EXISTS person;
 
 CREATE TABLE person (
